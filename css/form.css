@@ -1,0 +1,11 @@
+.input-item {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    width: 400px;
+}
+.input-error{
+    color: red;
+}
